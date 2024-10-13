@@ -1,0 +1,36 @@
+.presente {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    margin: 15px;
+}
+
+.tampa {
+    width: 90px;
+    height: 15px;
+    background-color: rgb(68, 187, 238);
+
+}
+
+.corpo {
+    width: 80px;
+    height: 40px;
+    background-color: rgb(68, 79, 238);
+}
+
+.laco {
+    width: 10px;
+    height: 55px;
+    background-color: red;
+    position: absolute;
+}
+
+.lacoh {
+    width: 80px;
+    height: 10px;
+    background-color: red;
+    position: absolute;
+    margin-top: 25px;
+}
